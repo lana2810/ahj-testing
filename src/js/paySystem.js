@@ -37,7 +37,6 @@ export default function paySystem(number) {
       document.querySelector(".cardUnionPay").classList.add("active");
       break;
     default:
-      document.querySelector("#numberCard-input").classList.add("active");
       break;
   }
 }
