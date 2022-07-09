@@ -15,6 +15,7 @@
     "function-paren-newline": "off",
     "operator-linebreak": "off",
     "no-unused-vars": "off",
-    "comma-dangle": "off"
+    "comma-dangle": "off",
+    "import/no-extraneous-dependencies": "off"
   }
 }
